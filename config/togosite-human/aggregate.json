@@ -1,8 +1,8 @@
 {
   "filter": {
-    "url": "https://integbio.jp/togosite/sparqlist/api/togokey_filter"
+    "url": "https://integbio.jp/togosite/sparqlist/api/togokey_filter_multi_route"
   },
   "table": {
-    "url": "https://integbio.jp/togosite/sparqlist/api/togokey_table_data"
+    "url": "https://integbio.jp/togosite/sparqlist/api/togokey_table_data_multi_route"
   }
 }
