@@ -4,5 +4,8 @@
   },
   "table": {
     "url": "https://integbio.jp/togosite/sparqlist/api/togokey_table_data_multi_route"
-  }
+  },
+  "mapping": {
+    "url": "https://integbio.jp/togosite/sparqlist/api/data_from_user_ids_multi_route"
+  }}
 }
